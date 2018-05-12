@@ -1,3 +1,3 @@
 # lottory
 Just play for fun!
-1. cratch data from lottory web 
+1. scraping data from lottory web 
